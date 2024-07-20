@@ -1,0 +1,1 @@
+Welcome to the PHP REST API repository! This project provides a simple RESTful API implemented in pure PHP, designed for basic operations such as user registration. This API is implemented without the use of any frameworks for demonstration and educational purposes.
